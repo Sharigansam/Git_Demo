@@ -5,3 +5,8 @@ public void m2(){
 Hello Good Morning
 
 How are you?
+
+//task-101
+public void m1(){
+
+}
