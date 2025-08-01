@@ -5,5 +5,6 @@ some edit on line 3 by cenral repo
 
 int a = 10
 boolean flag = false;
+char ch = 'A';
 
 
